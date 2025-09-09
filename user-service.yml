@@ -13,5 +13,5 @@ spring:
 order-service:
   # url: http://localhost:8001/order-service/%s/orders
   url: http://order-service:8001/order-service/%s/orders
-    n:
-    order_is_empth: User's order is empty
+  exception:
+    order-is_empth: User's order is empty
