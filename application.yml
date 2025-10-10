@@ -4,4 +4,4 @@ token:
 #  secret: user_token_git_very-long-and-secure-hmac-secret-key-1234567890123456
 
 gateway:
-  ip: 172.18.0.1
+  ip: 172.18.0.3
