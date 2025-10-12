@@ -8,7 +8,7 @@ spring:
 
 token:
   expiration_time: 864000000
-  secret: my-very-long-secret-key-1234567890123456-from-remote-repo-userservice
+  secret: user_token_git_very-long-and-secure-hmac-secret-key-1234567890123456
 
 gateway:
   ip: 172.18.0.3
